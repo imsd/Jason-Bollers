@@ -15,5 +15,5 @@ public class Move : MonoBehaviour {
 		if (Input.GetKey(KeyCode.UpArrow)) {
 			transform.Translate(Vector3.forward * Time.deltaTime);
 		}
-
+}
 }
