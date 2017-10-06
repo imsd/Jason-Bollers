@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Orbit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Spawn.cs" Line="31" Column="150" />
+      <File FileName="Assets/Scripts/Rotate.cs" Line="18" Column="50" />
+      <File FileName="Assets/Scripts/RotateOnHover.cs" Line="34" Column="2" />
+      <File FileName="Assets/Scripts/Interaction.cs" Line="12" Column="36" />
+      <File FileName="Assets/Scripts/Orbit.cs" Line="57" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
