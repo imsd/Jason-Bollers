@@ -4,8 +4,7 @@ This is a game of shooting zombies with a cannon. Your objective is to kill all 
 The idea for this game came about when we learned about the spawner. I wanted the zombies to spawn in random locations and in mass
 quantites. It was tricky to do but it all worked out.
 
-The controls for the cannon is simple just use the  <---(leftarrow) and the --->(
-rightarrow) to turn the cannon and (spacebar) to shoot.
+The controls for the cannon is simple just use the  <---(leftarrow) and the --->(rightarrow) to turn the cannon and (spacebar) to shoot.
 
 ZombieAttack Gif
 
