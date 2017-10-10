@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/MouseControl.unity
+=======
+- path: Assets/Maze.unity
+>>>>>>> ac9a71501f32c610880087055ac815323ee42b4b
   isLoaded: 1
   isActive: 1

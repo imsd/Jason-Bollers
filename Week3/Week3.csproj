@@ -80,7 +80,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Interaction.cs" />
     <Compile Include="Assets\Scripts\Iteration.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\MouseMovement.cs" />
+=======
+>>>>>>> ac9a71501f32c610880087055ac815323ee42b4b
     <Compile Include="Assets\Scripts\Move.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Orbit.cs" />
