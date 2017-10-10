@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BulletExpire.cs" />
     <Compile Include="Assets\Scripts\camerafollow.cs" />
+    <Compile Include="Assets\Scripts\capture.cs" />
     <Compile Include="Assets\Scripts\Enemyfollow.cs" />
     <Compile Include="Assets\Scripts\Interaction.cs" />
     <Compile Include="Assets\Scripts\Iteration.cs" />
