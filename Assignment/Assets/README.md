@@ -1,4 +1,4 @@
-Zombie Attack
+# Zombie Attack
 
 This is a game of shooting zombies with a cannon. You objective is to kill all zombies before they take down the cannon.
 The idea for this game cam about when we learned about the spawner. I wanted the zombies to spawn in random locations and in mass
