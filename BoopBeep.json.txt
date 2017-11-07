@@ -1,0 +1,20 @@
+{
+ "origin":"#boop# #beep# #boop# #beep# #boop# #boop# #beep# #beep# @lilpump",
+ "boop":[
+  "Boop",
+  "Boop Boop",
+  "Boop Boop Boop",
+  "Boop Boop Boop Boop",
+  "Boop Boop Boop Boop Boop",
+  "Boop Boop Boop Boop Boop Boop"
+  ],
+  "beep":[
+  "Beep",
+  "Beep Beep",
+  "Beep Beep Beep",
+  "Beep Beep Beep Beep",
+  "Beep Beep Beep Beep Beep",
+  "Beep Beep Beep Beep Beep Beep"
+  ]
+    
+}
