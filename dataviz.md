@@ -1,6 +1,7 @@
-#My project would look something like this:
+# My project would look something like this:
 ![Alt text](https://github.com/imsd/Jason-Bollers/blob/master/images.jpg)
 
+# The Big Idea:
 My idea is to make a scene that shows how many meteors crash into earths atmosphere each day.
 All i need is to know eactly how many crash into earth each day, what speed, and how frequent.
 Once thats done i just need to make the meteors and have them spawn in the frequency and speed
